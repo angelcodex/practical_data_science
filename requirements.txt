@@ -1,0 +1,14 @@
+# Core data science libraries
+pandas>=1.5.0
+numpy>=1.24.0,<2.0.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Machine learning
+scikit-learn>=1.2.0
+xgboost>=2.0.0
+
+# Jupyter support
+ipykernel>=6.0.0
+jupyter>=1.0.0
+
