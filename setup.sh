@@ -38,3 +38,4 @@ echo "   4. Restart the kernel after selecting"
 echo "   5. Update data path in notebook to: '../data/healthcare_data.csv'"
 echo ""
 
+

@@ -133,3 +133,4 @@ The dataset contains information recorded during patient admission:
 - Check that data file is in `data/` directory
 - Update notebook path to `../data/healthcare_data.csv`
 
+
