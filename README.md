@@ -1,4 +1,4 @@
-# Hospital Length of Stay (LOS) Prediction
+# Potential Customer Predictiond Model
 
 A machine learning project to predict hospital length of stay for patients using admission data and test results.
 
