@@ -1,10 +1,10 @@
 #!/bin/bash
-# Setup script for Hospital LOS Prediction Project
+# Setup script for ExtraaLearn Potential Customer Prediction Project
 
-PROJECT_NAME="hospital_los"
+PROJECT_NAME="extraalearn"
 
-echo "🏥 Hospital LOS Prediction - Project Setup"
-echo "=========================================="
+echo "📚 ExtraaLearn Potential Customer Prediction - Project Setup"
+echo "============================================================"
 echo ""
 
 # Check if venv already exists
@@ -33,9 +33,9 @@ echo ""
 echo "📋 Next steps:"
 echo "   1. Activate venv: source venv/bin/activate"
 echo "   2. Open your notebook in notebooks/ directory"
-echo "   3. Select kernel: 'Python (hospital_los)'"
+echo "   3. Select kernel: 'Python (extraalearn)'"
 echo "   4. Restart the kernel after selecting"
-echo "   5. Update data path in notebook to: '../data/healthcare_data.csv'"
+echo "   5. Update data path in notebook to: '../data/ExtraaLearn.csv'"
 echo ""
 
 
