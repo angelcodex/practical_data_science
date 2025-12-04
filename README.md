@@ -1,4 +1,4 @@
-# Potential Customer Predictiond Model
+# Potential Customer Prediction Model
 
 A machine learning project to predict hospital length of stay for patients using admission data and test results.
 
