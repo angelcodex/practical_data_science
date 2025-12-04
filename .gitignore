@@ -54,3 +54,9 @@ Thumbs.db
 .env.local
 
 
+# Archive folders
+archive/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
